@@ -30,7 +30,7 @@ This project is an advice generator website that fetches random pieces of advice
 Check out the live demo [here](https://abhishekgurjar-in.github.io/Advice-Generator/).
 
 ## Screenshots
-![Screenshot](https://github.com/user-attachments/assets/dd15350e-388e-4441-8382-f60e9fa8382d)
+![Screenshot png](https://github.com/user-attachments/assets/0aed22ad-aaab-4fa6-8385-452ae147337a)
 
 ## Credits
 - This project uses the [Advice Slip API](https://api.adviceslip.com/).
