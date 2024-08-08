@@ -1,4 +1,4 @@
-# Advice Generator Website
+# Advice Generator with HTML, CSS, and JavaScript
 
 
 ## Introduction
