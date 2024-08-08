@@ -21,17 +21,6 @@ The Advice Generator website is a straightforward application that allows users 
 - **CSS**: For styling the webpage.
 - **JavaScript**: For fetching data from the API and updating the DOM.
 
-## Project Structure
-
-Here's a quick look at the project structure:
-
-```
-Advice-Generator/
-├── index.html
-├── style.css
-└── script.js
-```
-
 ## Installation
 
 To get started with the project, follow these steps:
