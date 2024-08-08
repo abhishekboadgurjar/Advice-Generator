@@ -49,6 +49,8 @@ To get started with the project, follow these steps:
 
 You can check out the live demo of the Advice Generator website [here](https://abhishekgurjar-in.github.io/Advice-Generator/).
 
+## Screenshots
+![Screenshot png](https://github.com/user-attachments/assets/0aed22ad-aaab-4fa6-8385-452ae147337a)
 ## Conclusion
 
 Building the Advice Generator website was a fun and educational experience. It helped me practice working with APIs and building interactive web applications. I hope you find this project as enjoyable and informative as I did. Feel free to clone the repository and play around with the code. Happy coding!
