@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Advice-Generator.git
+    git clone https://github.com/abhishekboadgurjar/Advice-Generator.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Advice Generator website [here](https://abhishekgurjar-in.github.io/Advice-Generator/).
+You can check out the live demo of the Advice Generator website [here](https://abhishekboadgurjar.github.io/Advice-Generator/).
 
 ## Screenshots
 ![Screenshot png](https://github.com/user-attachments/assets/0aed22ad-aaab-4fa6-8385-452ae147337a)
@@ -63,7 +63,7 @@ Building the Advice Generator website was a fun and educational experience. It h
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
 
 
